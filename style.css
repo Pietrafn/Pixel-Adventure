@@ -30,10 +30,9 @@ body {
   background-image: url(popup.png);
   border-radius: 20px;
 }
-.redirections {
-  padding-left: 140px;
-  padding-down: 100px;
-}
+/*.redirections {
+  
+}*/
 .redirections button{
   background-color: transparent;
   background-repeat:no-repeat;
