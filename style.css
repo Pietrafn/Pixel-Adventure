@@ -1,5 +1,5 @@
 body {
-  background-image:url("myimg");
+  background-image:url(background.png);
 }
 .page-title {
   text-align: center;
@@ -23,7 +23,7 @@ body {
   border: 2px solid #000;
   margin-left: 40%;
   margin-down: 20px;
-  background-image: url("myimg");
+  background-image: url(popup.png);
   border-radius: 20px;
 }
 .redirections {
