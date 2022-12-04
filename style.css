@@ -33,7 +33,7 @@ body {
   background-image: url(popup.png);
   border-radius: 20px;
 }
-.redirections button{
+.redirections a{
   background-color: transparent;
   background-repeat:no-repeat;
   border: none;
