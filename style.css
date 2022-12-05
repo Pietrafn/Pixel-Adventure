@@ -34,8 +34,8 @@ body {
   border-radius: 20px;
 }
 .redirections a{
-  background-color: transparent;
-  background-repeat:no-repeat;
+  /*background-color: transparent;
+  background-repeat:no-repeat;*/
   border: none;
   cursor: pointer;
   text-decoration: none;
